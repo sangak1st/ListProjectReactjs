@@ -103,7 +103,7 @@ export const Todolist = () => {
             </div>
 
             <div className='me-5 ms-5 mt-3'>
-                <table className="table w-60">
+                <table className="table">
                     <thead>
                         <tr>
                             <th scope="col">Todo</th>
